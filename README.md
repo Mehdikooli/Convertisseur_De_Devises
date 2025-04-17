@@ -99,6 +99,3 @@ Provide a button to switch the from / to valuta types (So Euro -> Dollar becomes
 3. How to get the form data after the submit?
 4. Calculate the amount in the desired value
 5. Figure out a way to provide this data in the HTML
-
-![the-dream](https://camo.githubusercontent.com/44f601f1ce874ed1cf1a590207a4a47adece1261e8e6f7a8a2f62138f0af7fb0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612e67697068792e636d2f6e44637531525046537a33366f2f67697068792e676966)
-```
